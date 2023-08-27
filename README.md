@@ -10,6 +10,11 @@ The `tests` folder contains units tests
 5. When told, make a PULL REQUEST describing the changes and include the details.
 
 # Building
+The editor can be built and run as follows:
+```
+$ gcc *.c -o hx.out
+$ ./hx.out -b2h tests/test_bin2hex.txt
+```
 The unit tests can built and run as follows:
 ```
 $ cd tests
