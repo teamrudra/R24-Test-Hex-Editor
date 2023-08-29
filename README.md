@@ -1,3 +1,8 @@
+# Important Notice
+1. The MCQ Test will be open till 7:30 and can be attempted at any time before 7:30
+2. The Pull Request can be made until 9:00 after which the Repo will be archived.
+3. You are free to ask your questions in github discussions [here](https://github.com/teamrudra/R24-Test-Hex-Editor/discussions)
+
 # R24-Test-Hex-Editor
 This repo contains source files for hex editor.
 This generates hexdump and edited hexdump to binary file.
